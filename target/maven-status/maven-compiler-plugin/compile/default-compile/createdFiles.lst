@@ -1,0 +1,6 @@
+com\quangminh\configuration\AppConfiguration.class
+com\quangminh\entity\SanPham.class
+com\quangminh\services\SanPhamServies.class
+com\quangminh\entity\ChiTietSanPham.class
+com\quangminh\repositories\SanPhamReponsitories.class
+com\quangminh\controller\TrangChuController.class
