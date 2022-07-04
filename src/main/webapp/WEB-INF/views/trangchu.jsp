@@ -10,6 +10,7 @@
 </head>
 <body>
 	<jsp:include page="header.jsp" />
+	<jsp:include page="config.jsp" />
 	<div class="row">
 		<div class="col-2">
 			<h1>
